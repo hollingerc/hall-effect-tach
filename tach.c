@@ -26,8 +26,8 @@
  *      so the compiler will flag the conflict as an error
  *
  * This file is free software; you can redistribute it and/or modify
- * it under the terms of either the GNU General Public License version 2
- * or the GNU Lesser General Public License version 2.1, both as
+ * it under the terms of either the GNU General Public License version 3
+ * or the GNU Lesser General Public License version 3, both as
  * published by the Free Software Foundation.
  */ 
 
