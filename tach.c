@@ -18,8 +18,8 @@
  * for a pulse from the shaft.
  *
  * Note:
- * This code won't run under Arduino for varios reasons:
- *    - Arduino utilizes TCC1 in the background
+ * This code may not run under Arduino for varios reasons:
+ *    - Arduino utilizes TCC1 in the background (for PWM)
  *    - this code assumes a main processor clock frequency of 20MHz not the 16MHz
  *      of Arduino
  *    - the method main() is defined here, whereas Arduino defines it elsewhere
